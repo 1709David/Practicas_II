@@ -1,0 +1,5 @@
+Página web para una drogueria 
+	DROGUERIA + SALUD 
+- Calidad de los productos
+- Servicios allí ofrecidos
+- compra de los productos ( virtual || fisico) 
